@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whip Demo</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="jobs">Jobs</string>
+    <string name="inbox">Inbox</string>
+    <string name="more">More</string>
+    <string name="out_of_5">out of 5</string>
+</resources>

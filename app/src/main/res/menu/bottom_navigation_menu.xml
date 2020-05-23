@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:enabled="true"
+        android:icon="@mipmap/ic_dashboard"
+        android:title="@string/dashboard" />
+    <item
+        android:id="@+id/jobs"
+        android:enabled="true"
+        android:icon="@mipmap/ic_jobs"
+        android:title="@string/jobs" />
+    <item
+        android:id="@+id/inbox"
+        android:enabled="true"
+        android:icon="@mipmap/ic_inbox"
+        android:title="@string/inbox" />
+    <item
+        android:id="@+id/more"
+        android:enabled="true"
+        android:icon="@mipmap/ic_more"
+        android:title="@string/more" />
+
+</menu>
